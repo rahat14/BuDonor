@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1010184376546",
+    "firebase_url": "https://budonor.firebaseio.com",
+    "project_id": "budonor",
+    "storage_bucket": "budonor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010184376546:android:748476aef3c66134",
+        "android_client_info": {
+          "package_name": "com.me.toma.budonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010184376546-uorslvuu02ita7lu7g2dpdudc8bjq4qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.me.toma.budonor",
+            "certificate_hash": "c5b0657a328a3e1f6b9cbe04770dfe46eca81bfc"
+          }
+        },
+        {
+          "client_id": "1010184376546-sir02evgh8stmn35v8s6kmdue46pd8rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABA9_-NYbM8TR-OUYfR9jfAoZnxFPt1uE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010184376546-sir02evgh8stmn35v8s6kmdue46pd8rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
